@@ -1,0 +1,29 @@
+rehsihp96 
+
+
+apt update
+
+apt upgrade -y
+
+pkg install git
+
+pkg install php
+
+pkg install curl
+
+pkg install wget
+
+git clone https://github.com/Akshay-Arjun/69phisher.git or https://github.com/nawaraskc222/rehsihp96-.git
+
+cd 69phisher
+
+chmod -x 69phisher.sh 
+
+
+chmod 777 69phisher.sh
+
+
+bash 69phisher.sh
+
+
+
